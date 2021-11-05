@@ -1,0 +1,828 @@
+{
+  "zooCountryCode" : "CN",
+  "animals" : [ {
+    "id" : "e0b3d8d9-b862-4fa9-9fab-e068d4ac6b55",
+    "animalCommonName" : "Jaeger, long-tailed",
+    "animalScientificName" : "Stercorarius longicausus"
+  }, {
+    "id" : "17361198-8800-4d18-b66f-906b6de284ed",
+    "animalCommonName" : "Cook's tree boa",
+    "animalScientificName" : "Corallus hortulanus cooki"
+  }, {
+    "id" : "f38f7a41-4ba8-4da5-aaa1-0b6b7b7673ba",
+    "animalCommonName" : "Steller's sea lion",
+    "animalScientificName" : "Eumetopias jubatus"
+  }, {
+    "id" : "5a6f5cd8-d8d8-447a-8fdd-1f18d0458627",
+    "animalCommonName" : "Falcon, prairie",
+    "animalScientificName" : "Falco mexicanus"
+  }, {
+    "id" : "a6673ad1-87ff-4e8c-854c-6012d94de965",
+    "animalCommonName" : "Cardinal, black-throated",
+    "animalScientificName" : "Paroaria gularis"
+  }, {
+    "id" : "2e339165-344b-40e6-a7fc-276e0c400d6c",
+    "animalCommonName" : "Woylie",
+    "animalScientificName" : "Bettongia penicillata"
+  }, {
+    "id" : "52ca45ef-8013-401b-89e4-bfb06831d16f",
+    "animalCommonName" : "Cat, toddy",
+    "animalScientificName" : "Paradoxurus hermaphroditus"
+  }, {
+    "id" : "518b2cfa-d889-4ff8-9b50-99687fdcb178",
+    "animalCommonName" : "Beaver, eurasian",
+    "animalScientificName" : "Castor fiber"
+  }, {
+    "id" : "5780669e-335c-476a-8e1b-95f9715963a6",
+    "animalCommonName" : "Tortoise, galapagos",
+    "animalScientificName" : "Geochelone elephantopus"
+  }, {
+    "id" : "f7ca847f-db28-4046-9420-de54bc529b91",
+    "animalCommonName" : "Hare, arctic",
+    "animalScientificName" : "Lepus arcticus"
+  }, {
+    "id" : "0f839273-5d44-45a7-a880-45cf3ee9119e",
+    "animalCommonName" : "Vulture, egyptian",
+    "animalScientificName" : "Neophron percnopterus"
+  }, {
+    "id" : "02b9bb87-7875-4a28-ad23-feb241cbdb3f",
+    "animalCommonName" : "Neotropic cormorant",
+    "animalScientificName" : "Phalacrocorax brasilianus"
+  }, {
+    "id" : "7af2e308-6665-4f19-a8e3-2a65d9370021",
+    "animalCommonName" : "Burmese brown mountain tortoise",
+    "animalScientificName" : "Manouria emys"
+  }, {
+    "id" : "17cdc9b4-5a8c-4666-bd9e-60032a641e6a",
+    "animalCommonName" : "Stanley bustard",
+    "animalScientificName" : "Neotis denhami"
+  }, {
+    "id" : "7c1c0fd4-daae-4bc2-9153-641e4bb2db84",
+    "animalCommonName" : "Scarlet macaw",
+    "animalScientificName" : "Ara macao"
+  }, {
+    "id" : "48201597-05d8-4964-8c1e-72f4f0397c7a",
+    "animalCommonName" : "Dog, bush",
+    "animalScientificName" : "Speothos vanaticus"
+  }, {
+    "id" : "89e6c763-5d4b-47a3-a9e4-9f9d6957012f",
+    "animalCommonName" : "Red-billed tropic bird",
+    "animalScientificName" : "Phaethon aethereus"
+  }, {
+    "id" : "fb79b2c5-2f3f-499d-8c4d-2a8e5cfdec4e",
+    "animalCommonName" : "Francolin, swainson's",
+    "animalScientificName" : "Francolinus swainsonii"
+  }, {
+    "id" : "078bf847-587b-43e8-a35c-ca2c49d5d74a",
+    "animalCommonName" : "Crow, pied",
+    "animalScientificName" : "Corvus albus"
+  }, {
+    "id" : "43a76fa4-97f7-43a3-b8ab-930c535c3dd8",
+    "animalCommonName" : "Hippopotamus",
+    "animalScientificName" : "Hippopotamus amphibius"
+  }, {
+    "id" : "e15d00fa-22f0-468d-8c27-32b98707c3fe",
+    "animalCommonName" : "Agile wallaby",
+    "animalScientificName" : "Macropus agilis"
+  }, {
+    "id" : "eecb054d-3adf-4572-8b70-cda574421bb3",
+    "animalCommonName" : "African jacana",
+    "animalScientificName" : "Actophilornis africanus"
+  }, {
+    "id" : "0eb9f76a-b972-4253-99dc-0bde96e99e2c",
+    "animalCommonName" : "Crab-eating raccoon",
+    "animalScientificName" : "Procyon cancrivorus"
+  }, {
+    "id" : "c857ea90-dc78-4b7b-b994-e4fb7e124796",
+    "animalCommonName" : "Owl, snowy",
+    "animalScientificName" : "Nyctea scandiaca"
+  }, {
+    "id" : "937c7bd0-0989-45e9-9f57-8ecc47b71038",
+    "animalCommonName" : "Two-toed tree sloth",
+    "animalScientificName" : "Choloepus hoffmani"
+  }, {
+    "id" : "0713bc77-ca6f-49a9-a044-3e26f1412249",
+    "animalCommonName" : "White-faced tree rat",
+    "animalScientificName" : "Echimys chrysurus"
+  }, {
+    "id" : "70fb0bd9-c12a-43cc-b767-1f326cdd48b3",
+    "animalCommonName" : "Lion, steller's sea",
+    "animalScientificName" : "Eumetopias jubatus"
+  }, {
+    "id" : "e6198ec4-43d1-4021-a6ab-82adae1f4c37",
+    "animalCommonName" : "Horned lark",
+    "animalScientificName" : "Eremophila alpestris"
+  }, {
+    "id" : "e7cf3baf-9185-4ab0-b319-6e23cbbc7c96",
+    "animalCommonName" : "Common boubou shrike",
+    "animalScientificName" : "Laniarius ferrugineus"
+  }, {
+    "id" : "b010cb62-ba5a-4d5c-8db3-d5306acd5c78",
+    "animalCommonName" : "Pheasant, common",
+    "animalScientificName" : "Phasianus colchicus"
+  }, {
+    "id" : "6d7dcf1f-9023-493b-b965-286871869887",
+    "animalCommonName" : "White-browed owl",
+    "animalScientificName" : "Ninox superciliaris"
+  }, {
+    "id" : "bf054660-f39b-45a5-aa73-b4c3c2bdb5e7",
+    "animalCommonName" : "Lion, galapagos sea",
+    "animalScientificName" : "Zalophus californicus"
+  }, {
+    "id" : "323c0dbe-03c6-4d0d-934c-446178d3e535",
+    "animalCommonName" : "Baboon, chacma",
+    "animalScientificName" : "Papio ursinus"
+  }, {
+    "id" : "9f6c22fa-c51d-40b9-8838-5a685a2d17e6",
+    "animalCommonName" : "Green-winged trumpeter",
+    "animalScientificName" : "Psophia viridis"
+  }, {
+    "id" : "7aabb023-a745-480c-a8da-6b866237febe",
+    "animalCommonName" : "Flightless cormorant",
+    "animalScientificName" : "Nannopterum harrisi"
+  }, {
+    "id" : "16a33abb-1932-4587-85dc-f4cdb6939afa",
+    "animalCommonName" : "Emerald green tree boa",
+    "animalScientificName" : "Boa caninus"
+  }, {
+    "id" : "9c4fdfc5-927c-44c9-8f34-86ba6d197b35",
+    "animalCommonName" : "Common raccoon",
+    "animalScientificName" : "Procyon lotor"
+  }, {
+    "id" : "18be60c4-c0a3-4a92-9108-26ad143e35e2",
+    "animalCommonName" : "Bush dog",
+    "animalScientificName" : "Speothos vanaticus"
+  }, {
+    "id" : "c8a8bdeb-97e1-4c80-a57e-fe89188ab3f6",
+    "animalCommonName" : "Cape fox",
+    "animalScientificName" : "Vulpes chama"
+  }, {
+    "id" : "e7ecfc3b-9b83-40ea-ac5e-97f503185273",
+    "animalCommonName" : "Vulture, egyptian",
+    "animalScientificName" : "Neophron percnopterus"
+  }, {
+    "id" : "d6d227d6-f71b-4630-91e9-dd5114d05a8e",
+    "animalCommonName" : "Sheathbill, snowy",
+    "animalScientificName" : "Chionis alba"
+  }, {
+    "id" : "dc589d5a-2197-4f78-a3dd-1f7ba33d3a5c",
+    "animalCommonName" : "Galapagos penguin",
+    "animalScientificName" : "Spheniscus mendiculus"
+  }, {
+    "id" : "13318cf9-dcc2-4516-8a60-e6df6d92bedf",
+    "animalCommonName" : "Javanese cormorant",
+    "animalScientificName" : "Phalacrocorax niger"
+  }, {
+    "id" : "1749da55-3107-41d5-979c-bad113bee294",
+    "animalCommonName" : "Dove, little brown",
+    "animalScientificName" : "Streptopelia senegalensis"
+  }, {
+    "id" : "e7c2c410-1365-4c38-b728-04bdef5b32f0",
+    "animalCommonName" : "Curlew, black",
+    "animalScientificName" : "Haematopus ater"
+  }, {
+    "id" : "9fc07514-b4b9-4050-8e31-005b197ed65b",
+    "animalCommonName" : "Snowy sheathbill",
+    "animalScientificName" : "Chionis alba"
+  }, {
+    "id" : "a27a59c5-e4b9-43bc-b9d8-a450a085fb22",
+    "animalCommonName" : "Raven, cape",
+    "animalScientificName" : "Corvus albicollis"
+  }, {
+    "id" : "abfb31ec-be38-4e92-ae52-fe2193c85d5a",
+    "animalCommonName" : "Giant otter",
+    "animalScientificName" : "Pteronura brasiliensis"
+  }, {
+    "id" : "aeae6bf5-edea-407d-95e6-d75542f53d9a",
+    "animalCommonName" : "Ring-tailed possum",
+    "animalScientificName" : "Pseudocheirus peregrinus"
+  }, {
+    "id" : "570b0343-9be1-43bd-a4dd-f449a977d534",
+    "animalCommonName" : "Deer, black-tailed",
+    "animalScientificName" : "Odocoileus hemionus"
+  }, {
+    "id" : "618b2bb0-79cc-497c-aff8-6611ec8226d7",
+    "animalCommonName" : "Eagle, african fish",
+    "animalScientificName" : "Haliaetus vocifer"
+  }, {
+    "id" : "c8425075-1a8c-47ed-960f-192e17c011b1",
+    "animalCommonName" : "Pocket gopher (unidentified)",
+    "animalScientificName" : "unavailable"
+  }, {
+    "id" : "db3d44bf-94c6-465d-8bc3-ccd6790c0a2a",
+    "animalCommonName" : "Long-tailed spotted cat",
+    "animalScientificName" : "Felis wiedi or Leopardus weidi"
+  }, {
+    "id" : "7d27cc98-dee1-498c-ad16-b333202766f0",
+    "animalCommonName" : "Zorro, common",
+    "animalScientificName" : "Dusicyon thous"
+  }, {
+    "id" : "17cd6aac-0aaa-4434-9968-b117db922a97",
+    "animalCommonName" : "Alligator, american",
+    "animalScientificName" : "Alligator mississippiensis"
+  }, {
+    "id" : "ff6ee1c2-48e7-4e42-bdeb-e1b5a4796ef4",
+    "animalCommonName" : "Dove, white-winged",
+    "animalScientificName" : "Zenaida asiatica"
+  }, {
+    "id" : "367e6540-7ef4-44a9-8f28-34f82ffa5b7b",
+    "animalCommonName" : "Buffalo, american",
+    "animalScientificName" : "Bison bison"
+  }, {
+    "id" : "062dbcdd-0bd7-43bb-9267-39ad8f9e179c",
+    "animalCommonName" : "Rhesus macaque",
+    "animalScientificName" : "Macaca mulatta"
+  }, {
+    "id" : "4f36c3fd-c1b0-4636-8617-c4bdf764bc15",
+    "animalCommonName" : "Capybara",
+    "animalScientificName" : "Hydrochoerus hydrochaeris"
+  }, {
+    "id" : "458e8749-e1ab-430f-ae6b-99ebe4cb29f1",
+    "animalCommonName" : "Lizard, collared",
+    "animalScientificName" : "Crotaphytus collaris"
+  }, {
+    "id" : "ad8d351a-2349-4308-a6ef-9405c61ffbbc",
+    "animalCommonName" : "Mountain lion",
+    "animalScientificName" : "Felis concolor"
+  }, {
+    "id" : "6064e142-49d9-4274-b442-9431c9cc5d36",
+    "animalCommonName" : "Crab, sally lightfoot",
+    "animalScientificName" : "Graspus graspus"
+  }, {
+    "id" : "8e3720b7-d10e-44d2-b888-9b81b13bff20",
+    "animalCommonName" : "Skink, blue-tongued",
+    "animalScientificName" : "Tiliqua scincoides"
+  }, {
+    "id" : "8d86ba3a-ffff-4123-99dc-bcdcdd7f03fa",
+    "animalCommonName" : "Starling, greater blue-eared",
+    "animalScientificName" : "Lamprotornis chalybaeus"
+  }, {
+    "id" : "588f3898-9ec3-4721-9705-207281e0f27c",
+    "animalCommonName" : "Turkey, common",
+    "animalScientificName" : "Meleagris gallopavo"
+  }, {
+    "id" : "d528856f-d504-43e2-ab43-26029b88834a",
+    "animalCommonName" : "Royal tern",
+    "animalScientificName" : "Thalasseus maximus"
+  }, {
+    "id" : "244b442e-a7df-41df-bf7d-1e4e436605a0",
+    "animalCommonName" : "Common seal",
+    "animalScientificName" : "Phoca vitulina"
+  }, {
+    "id" : "22ac1bdd-93b7-4d5a-b6f6-68dcc1df0fec",
+    "animalCommonName" : "Butterfly (unidentified)",
+    "animalScientificName" : "unavailable"
+  }, {
+    "id" : "08c13674-6a1d-4d83-bbd7-31a98015d66a",
+    "animalCommonName" : "Mongoose, eastern dwarf",
+    "animalScientificName" : "Helogale undulata"
+  }, {
+    "id" : "29f24884-4110-4e22-b37c-171541615c74",
+    "animalCommonName" : "Adouri (unidentified)",
+    "animalScientificName" : "unavailable"
+  }, {
+    "id" : "3a497f66-2aeb-499e-a27d-08f87e3fddc9",
+    "animalCommonName" : "Royal tern",
+    "animalScientificName" : "Thalasseus maximus"
+  }, {
+    "id" : "030cac8e-8bd2-45ad-a0e8-cb7876bbf1a9",
+    "animalCommonName" : "Stork, white-necked",
+    "animalScientificName" : "Ciconia episcopus"
+  }, {
+    "id" : "444a57cf-4b6c-4c52-b253-67696e2a62c7",
+    "animalCommonName" : "Western bearded dragon",
+    "animalScientificName" : "Amphibolurus barbatus"
+  }, {
+    "id" : "7df12ded-7746-4dea-a9e5-927cb3dca9ed",
+    "animalCommonName" : "Otter, canadian river",
+    "animalScientificName" : "Lutra canadensis"
+  }, {
+    "id" : "f207281f-77f0-4cd5-8e58-69f3647267d2",
+    "animalCommonName" : "Brazilian otter",
+    "animalScientificName" : "Pteronura brasiliensis"
+  }, {
+    "id" : "439b3ca9-9341-4f08-afb4-3f466ef95a8d",
+    "animalCommonName" : "Asian elephant",
+    "animalScientificName" : "Elephas maximus bengalensis"
+  }, {
+    "id" : "c88a897e-5a32-49ec-bff7-e9b60bce875d",
+    "animalCommonName" : "Turtle, long-necked",
+    "animalScientificName" : "Chelodina longicollis"
+  }, {
+    "id" : "4b563547-27c2-44ee-9672-0b000518b5db",
+    "animalCommonName" : "Green vine snake",
+    "animalScientificName" : "Oxybelis fulgidus"
+  }, {
+    "id" : "44a231c5-0e68-41f6-93f6-01a816430c3f",
+    "animalCommonName" : "Cat, ringtail",
+    "animalScientificName" : "Bassariscus astutus"
+  }, {
+    "id" : "e647dfc9-5dc1-4f1e-b328-83a9b13b0786",
+    "animalCommonName" : "Bushbuck",
+    "animalScientificName" : "Tragelaphus scriptus"
+  }, {
+    "id" : "752ebd86-f972-40bc-924f-b986edaa5527",
+    "animalCommonName" : "Gelada baboon",
+    "animalScientificName" : "Theropithecus gelada"
+  }, {
+    "id" : "47ac14bd-64c6-437f-b004-cbf021bc6483",
+    "animalCommonName" : "Cat, long-tailed spotted",
+    "animalScientificName" : "Felis wiedi or Leopardus weidi"
+  }, {
+    "id" : "ea81eb29-5563-4873-a714-54e5d091033c",
+    "animalCommonName" : "Legaan, water",
+    "animalScientificName" : "Varanus salvator"
+  }, {
+    "id" : "92c1b75c-c88b-4d8f-8a92-fabf117eed68",
+    "animalCommonName" : "Whale, baleen",
+    "animalScientificName" : "Eubalaena australis"
+  }, {
+    "id" : "97d5a99d-e3b9-469f-9dc5-a78fd7847e52",
+    "animalCommonName" : "Siskin, yellow-rumped",
+    "animalScientificName" : "Carduelis uropygialis"
+  }, {
+    "id" : "29066dc5-268f-41ff-bfc3-d74b087aa3ac",
+    "animalCommonName" : "Mouflon",
+    "animalScientificName" : "Ovis musimon"
+  }, {
+    "id" : "6e8576bd-6dd4-4cca-a4c4-d632ee904c77",
+    "animalCommonName" : "Plover, blacksmith",
+    "animalScientificName" : "Vanellus armatus"
+  }, {
+    "id" : "8876890f-2dcc-4dc9-9c0f-b6055e1f8d08",
+    "animalCommonName" : "Red kangaroo",
+    "animalScientificName" : "Macropus rufus"
+  }, {
+    "id" : "e40ac7eb-978c-474a-89f6-c7eca96de735",
+    "animalCommonName" : "Sheep, red",
+    "animalScientificName" : "Ovis ammon"
+  }, {
+    "id" : "acbd4c65-7905-401e-bb1c-d092e58fd684",
+    "animalCommonName" : "Eland, common",
+    "animalScientificName" : "Taurotagus oryx"
+  }, {
+    "id" : "39e3084a-b9e5-442a-a63d-d51ba643b7e5",
+    "animalCommonName" : "Seal, harbor",
+    "animalScientificName" : "Phoca vitulina"
+  }, {
+    "id" : "23e941a1-4a31-48ed-95f9-bc434b340a6a",
+    "animalCommonName" : "Turaco, violet-crested",
+    "animalScientificName" : "Tauraco porphyrelophus"
+  }, {
+    "id" : "0ebe0dc2-3df7-4c8b-bf43-718c5103c57b",
+    "animalCommonName" : "Indian giant squirrel",
+    "animalScientificName" : "Ratufa indica"
+  }, {
+    "id" : "d18fcd09-86db-4a01-bdb8-1dd6c7abda70",
+    "animalCommonName" : "Horned puffin",
+    "animalScientificName" : "Fratercula corniculata"
+  }, {
+    "id" : "f9818e56-1cc7-435a-b7a9-06d318663d36",
+    "animalCommonName" : "Vulture, white-rumped",
+    "animalScientificName" : "Gyps bengalensis"
+  }, {
+    "id" : "b8374789-a260-426e-88c7-42f70f0d4320",
+    "animalCommonName" : "Slender-billed cockatoo",
+    "animalScientificName" : "Cacatua tenuirostris"
+  }, {
+    "id" : "1fc20ea2-2ce7-4636-9d3b-15fd831f1015",
+    "animalCommonName" : "Kingfisher, white-throated",
+    "animalScientificName" : "Halcyon smyrnesis"
+  }, {
+    "id" : "4b9aa305-afc1-4e63-a4f1-d9b20e77a65c",
+    "animalCommonName" : "Pocket gopher (unidentified)",
+    "animalScientificName" : "unavailable"
+  }, {
+    "id" : "9b76555e-5f7f-4671-a9ef-9338aebf6161",
+    "animalCommonName" : "Red-breasted cockatoo",
+    "animalScientificName" : "Eolophus roseicapillus"
+  }, {
+    "id" : "e8dbdb0a-21ec-40d4-a0ae-01dc96f0ad21",
+    "animalCommonName" : "Eurasian hoopoe",
+    "animalScientificName" : "Upupa epops"
+  }, {
+    "id" : "a6452ede-0ba9-48c3-a99c-6870249a3464",
+    "animalCommonName" : "Otter, cape clawless",
+    "animalScientificName" : "Aonyx capensis"
+  }, {
+    "id" : "c56ce810-87e5-44e8-be2f-45caac8f7440",
+    "animalCommonName" : "Great white pelican",
+    "animalScientificName" : "Pelecans onocratalus"
+  }, {
+    "id" : "3f8f7f18-c4b0-4bf3-8405-920af1b55db0",
+    "animalCommonName" : "Elephant, african",
+    "animalScientificName" : "Loxodonta africana"
+  }, {
+    "id" : "5703841c-855f-4661-9964-2a5ba52cf07b",
+    "animalCommonName" : "Stanley crane",
+    "animalScientificName" : "Anthropoides paradisea"
+  }, {
+    "id" : "9cce550b-e090-4b98-9ef5-b6a7e65472e3",
+    "animalCommonName" : "Crow, house",
+    "animalScientificName" : "Corvus brachyrhynchos"
+  }, {
+    "id" : "d7e32dfc-f98d-4421-a704-d0018a983ceb",
+    "animalCommonName" : "White-headed vulture",
+    "animalScientificName" : "Aegypius occipitalis"
+  }, {
+    "id" : "8ea26622-0426-496e-abdb-7de9fadb4df3",
+    "animalCommonName" : "Penguin, little blue",
+    "animalScientificName" : "Eudyptula minor"
+  }, {
+    "id" : "80c66d23-57c0-4565-b740-8b51bb833b48",
+    "animalCommonName" : "Common seal",
+    "animalScientificName" : "Phoca vitulina"
+  }, {
+    "id" : "6f896891-11b1-4f78-ba8a-96fa53c76456",
+    "animalCommonName" : "Kingfisher, pied",
+    "animalScientificName" : "Ceryle rudis"
+  }, {
+    "id" : "32ad0198-b16b-43ed-af42-3751b76126aa",
+    "animalCommonName" : "Common wolf",
+    "animalScientificName" : "Canis lupus"
+  }, {
+    "id" : "ac8264fb-d756-4f0c-9edc-d25a4aaf85ac",
+    "animalCommonName" : "Crane, black-crowned",
+    "animalScientificName" : "Balearica pavonina"
+  }, {
+    "id" : "4a4344d4-26ca-4b6c-a9b8-a276d7df7310",
+    "animalCommonName" : "Common brushtail possum",
+    "animalScientificName" : "Trichosurus vulpecula"
+  }, {
+    "id" : "676a9eaf-6964-489a-b715-68288e36a30c",
+    "animalCommonName" : "Wallaby, tammar",
+    "animalScientificName" : "Macropus eugenii"
+  }, {
+    "id" : "12e77128-4964-4bb4-9771-c4c1786747e2",
+    "animalCommonName" : "Quail, gambel's",
+    "animalScientificName" : "Callipepla gambelii"
+  }, {
+    "id" : "8ed66fb7-7389-4205-92bf-40028a56ffaa",
+    "animalCommonName" : "Ass, asiatic wild",
+    "animalScientificName" : "Equus hemionus"
+  }, {
+    "id" : "e4afe7dc-4d35-4c8d-930f-52f3ff0abda0",
+    "animalCommonName" : "Stork, black-necked",
+    "animalScientificName" : "Ephippiorhynchus mycteria"
+  }, {
+    "id" : "d7138aa9-9284-400c-b2d5-2848e32fd8b8",
+    "animalCommonName" : "Ring-tailed coatimundi",
+    "animalScientificName" : "Nasua nasua"
+  }, {
+    "id" : "4f86a382-0acc-4f35-b9fe-bc69bcc95f63",
+    "animalCommonName" : "Squirrel, pine",
+    "animalScientificName" : "Tamiasciurus hudsonicus"
+  }, {
+    "id" : "b399dcd1-84fa-4d6f-b249-2231206bab91",
+    "animalCommonName" : "Cormorant, king",
+    "animalScientificName" : "Phalacrocorax albiventer"
+  }, {
+    "id" : "f9acd68f-133a-4277-9c50-4248133e8e4e",
+    "animalCommonName" : "Penguin, fairy",
+    "animalScientificName" : "Eudyptula minor"
+  }, {
+    "id" : "cd150eb7-4182-401e-b9db-3f670cdf1875",
+    "animalCommonName" : "Cereopsis goose",
+    "animalScientificName" : "Cereopsis novaehollandiae"
+  }, {
+    "id" : "3e140fb6-f087-45d5-a1f0-bb95d7ea8272",
+    "animalCommonName" : "Turkey, common",
+    "animalScientificName" : "Meleagris gallopavo"
+  }, {
+    "id" : "16dc43a6-88f0-4a42-8603-e16d265d403e",
+    "animalCommonName" : "Reedbuck, bohor",
+    "animalScientificName" : "Redunca redunca"
+  }, {
+    "id" : "2afdf527-608b-45c4-af2a-1cd2aee1a4f8",
+    "animalCommonName" : "Eurasian badger",
+    "animalScientificName" : "Meles meles"
+  }, {
+    "id" : "6290ccf2-8abc-4753-9584-24d4b0014ca9",
+    "animalCommonName" : "Lizard, giant girdled",
+    "animalScientificName" : "Cordylus giganteus"
+  }, {
+    "id" : "530b6891-882f-48a0-8502-2d09cf86021c",
+    "animalCommonName" : "Barasingha deer",
+    "animalScientificName" : "Cervus duvauceli"
+  }, {
+    "id" : "d34e5f41-928f-431b-bb76-7b01ac1d1218",
+    "animalCommonName" : "Dragon, western bearded",
+    "animalScientificName" : "Amphibolurus barbatus"
+  }, {
+    "id" : "045c79e4-3b24-43a0-9c43-b33353b901a4",
+    "animalCommonName" : "Kirk's dik dik",
+    "animalScientificName" : "Madoqua kirkii"
+  }, {
+    "id" : "ec6e6ff6-dd50-40db-80a8-846c6394b17c",
+    "animalCommonName" : "Lion, african",
+    "animalScientificName" : "Panthera leo"
+  }, {
+    "id" : "e15d993b-8dc5-4289-9b88-271f7d4d23ef",
+    "animalCommonName" : "Pygmy possum",
+    "animalScientificName" : "Acrobates pygmaeus"
+  }, {
+    "id" : "0f0ddcd7-9001-422c-8963-8fe998d80c11",
+    "animalCommonName" : "Southern tamandua",
+    "animalScientificName" : "Tamandua tetradactyla"
+  }, {
+    "id" : "55f346be-1703-420f-a155-c39e4d58754f",
+    "animalCommonName" : "Frilled lizard",
+    "animalScientificName" : "Chlamydosaurus kingii"
+  }, {
+    "id" : "8def2559-8354-4304-b75a-bff61d2b3d4e",
+    "animalCommonName" : "Dik, kirk's dik",
+    "animalScientificName" : "Madoqua kirkii"
+  }, {
+    "id" : "9eaa3071-2c1e-4497-8da9-70fa69bd7670",
+    "animalCommonName" : "Snow goose",
+    "animalScientificName" : "Anser caerulescens"
+  }, {
+    "id" : "7ec6590b-527d-40c2-b757-57c0306def87",
+    "animalCommonName" : "Dog, bush",
+    "animalScientificName" : "Speothos vanaticus"
+  }, {
+    "id" : "ebf3a82c-a8e0-4fea-b827-74d84ddaaeff",
+    "animalCommonName" : "Goose, egyptian",
+    "animalScientificName" : "Alopochen aegyptiacus"
+  }, {
+    "id" : "37c0949a-abf5-4c7b-b639-6837ea300e14",
+    "animalCommonName" : "Boar, wild",
+    "animalScientificName" : "Sus scrofa"
+  }, {
+    "id" : "fe490153-f1c6-4695-81e8-46505e0dd440",
+    "animalCommonName" : "Banded mongoose",
+    "animalScientificName" : "Mungos mungo"
+  }, {
+    "id" : "9fe5d472-51b1-4c63-b114-0d39deb272a6",
+    "animalCommonName" : "Bobcat",
+    "animalScientificName" : "Felis rufus"
+  }, {
+    "id" : "28364fc5-c4df-4659-8077-01106a59c12c",
+    "animalCommonName" : "Common palm civet",
+    "animalScientificName" : "Paradoxurus hermaphroditus"
+  }, {
+    "id" : "6b06370e-e02e-4031-bf22-5d4b56dacfac",
+    "animalCommonName" : "Pronghorn",
+    "animalScientificName" : "Antilocapra americana"
+  }, {
+    "id" : "f1084896-c984-4cb4-9295-d0f5e94f558c",
+    "animalCommonName" : "Tawny eagle",
+    "animalScientificName" : "Anitibyx armatus"
+  }, {
+    "id" : "0b96e990-4b06-4bf4-82b4-20a301b55f26",
+    "animalCommonName" : "Steller's sea lion",
+    "animalScientificName" : "Eumetopias jubatus"
+  }, {
+    "id" : "e6f8601b-75b4-4644-b68f-6122f665f179",
+    "animalCommonName" : "Dove, mourning collared",
+    "animalScientificName" : "Streptopelia decipiens"
+  }, {
+    "id" : "a21b5598-281c-4fcd-9879-add6a76fcc70",
+    "animalCommonName" : "Snake-necked turtle",
+    "animalScientificName" : "Chelodina longicollis"
+  }, {
+    "id" : "e3051ea6-2319-4083-80b2-4a39360b9abd",
+    "animalCommonName" : "Devil, tasmanian",
+    "animalScientificName" : "Sarcophilus harrisii"
+  }, {
+    "id" : "df015ea2-ef11-4f73-ab86-acd09cdfa0f6",
+    "animalCommonName" : "Pig-tailed macaque",
+    "animalScientificName" : "Macaca nemestrina"
+  }, {
+    "id" : "947204a2-d7cc-44e7-98c4-68f98f584cbe",
+    "animalCommonName" : "Wallaby, tammar",
+    "animalScientificName" : "Macropus eugenii"
+  }, {
+    "id" : "3a054c2f-1162-4bf6-ae79-6b7cd240db61",
+    "animalCommonName" : "Squirrel glider",
+    "animalScientificName" : "Petaurus norfolcensis"
+  }, {
+    "id" : "9b7e9c96-a32f-4299-a523-533650fc1c43",
+    "animalCommonName" : "Indian jackal",
+    "animalScientificName" : "Canis aureus"
+  }, {
+    "id" : "dbc79999-599a-4e05-be6e-774aeb1818ef",
+    "animalCommonName" : "Bear, polar",
+    "animalScientificName" : "Ursus maritimus"
+  }, {
+    "id" : "79f6313e-bc5d-4d54-bb9a-feb8bd5efa6d",
+    "animalCommonName" : "Seal, northern fur",
+    "animalScientificName" : "Callorhinus ursinus"
+  }, {
+    "id" : "136ba9dc-e128-49a8-8809-9f715ed0f874",
+    "animalCommonName" : "Lemur, lesser mouse",
+    "animalScientificName" : "Microcebus murinus"
+  }, {
+    "id" : "e021abee-0c8f-485c-849e-9809aa53ea6d",
+    "animalCommonName" : "Turkey, common",
+    "animalScientificName" : "Meleagris gallopavo"
+  }, {
+    "id" : "b42349b9-4ffa-45b6-a59a-b6aef01a3639",
+    "animalCommonName" : "South American puma",
+    "animalScientificName" : "Felis concolor"
+  }, {
+    "id" : "13500f29-38e4-4d84-8b3e-39649c9120db",
+    "animalCommonName" : "Duiker, gray",
+    "animalScientificName" : "Sylvicapra grimma"
+  }, {
+    "id" : "352f051a-cd50-4a37-a1e4-feb717d90f99",
+    "animalCommonName" : "Capuchin, brown",
+    "animalScientificName" : "Cebus apella"
+  }, {
+    "id" : "110ff83b-5eee-4780-85ed-e23d0b5cb91a",
+    "animalCommonName" : "Plover, three-banded",
+    "animalScientificName" : "Charadrius tricollaris"
+  }, {
+    "id" : "41b0d967-2c5c-4735-ab48-37147e2d4213",
+    "animalCommonName" : "Hawk, galapagos",
+    "animalScientificName" : "Buteo galapagoensis"
+  }, {
+    "id" : "6c816749-1dee-45bf-aef1-9e78fbc87eb2",
+    "animalCommonName" : "Snake (unidentified)",
+    "animalScientificName" : "unavailable"
+  }, {
+    "id" : "d822451d-e236-4125-8472-fd0113dddcc6",
+    "animalCommonName" : "Seal, harbor",
+    "animalScientificName" : "Phoca vitulina"
+  }, {
+    "id" : "0883c062-57a8-4edc-8317-5635b3ebb03b",
+    "animalCommonName" : "Buffalo, asian water",
+    "animalScientificName" : "Bubalus arnee"
+  }, {
+    "id" : "07591825-792f-493c-8281-f20d570e0899",
+    "animalCommonName" : "Mockingbird, galapagos",
+    "animalScientificName" : "Nesomimus trifasciatus"
+  }, {
+    "id" : "c5be1f0b-da75-47bd-9cb4-87679884b1e9",
+    "animalCommonName" : "Sacred ibis",
+    "animalScientificName" : "Threskionis aethiopicus"
+  }, {
+    "id" : "26ce833f-1396-4481-acdf-9e3849e01ff6",
+    "animalCommonName" : "Lizard (unidentified)",
+    "animalScientificName" : "unavailable"
+  }, {
+    "id" : "d783aef5-ad73-4818-a6b2-2bf04a9d9bc1",
+    "animalCommonName" : "Crowned hawk-eagle",
+    "animalScientificName" : "Spizaetus coronatus"
+  }, {
+    "id" : "76d49cb4-37e3-453b-a3cc-5844e7e5bb26",
+    "animalCommonName" : "Giant heron",
+    "animalScientificName" : "Ardea golieth"
+  }, {
+    "id" : "46e060d9-4866-4ef7-b096-12470a28b529",
+    "animalCommonName" : "Whale, killer",
+    "animalScientificName" : "Orcinus orca"
+  }, {
+    "id" : "2db799a6-04d6-4e2f-83bd-7c73142b0ce1",
+    "animalCommonName" : "Polar bear",
+    "animalScientificName" : "Ursus maritimus"
+  }, {
+    "id" : "1285efda-ecde-4f48-9bb6-8d684ef2f21f",
+    "animalCommonName" : "Whale, southern right",
+    "animalScientificName" : "Eubalaena australis"
+  }, {
+    "id" : "7ca6b08e-0131-4dff-8d30-5ad42d8ffffb",
+    "animalCommonName" : "Black-cheeked waxbill",
+    "animalScientificName" : "Estrilda erythronotos"
+  }, {
+    "id" : "80bea7c5-b6b7-43ed-980d-7521d15fbf40",
+    "animalCommonName" : "Lemur, lesser mouse",
+    "animalScientificName" : "Microcebus murinus"
+  }, {
+    "id" : "7eb8f049-91d1-475e-b435-0e11b8e6cac2",
+    "animalCommonName" : "Oriental white-backed vulture",
+    "animalScientificName" : "Gyps bengalensis"
+  }, {
+    "id" : "38c186b2-5048-4848-b346-6c953859a15c",
+    "animalCommonName" : "Currasow (unidentified)",
+    "animalScientificName" : "Crax sp."
+  }, {
+    "id" : "16106bcb-ffc3-4d62-bb2a-b76c189b557c",
+    "animalCommonName" : "Gull, lava",
+    "animalScientificName" : "Larus fuliginosus"
+  }, {
+    "id" : "72100ec1-d1bc-446e-bc50-1a01f01ae0e9",
+    "animalCommonName" : "Tree porcupine",
+    "animalScientificName" : "Coendou prehensilis"
+  }, {
+    "id" : "5a763c87-b368-4dfd-9402-455eb8ff8250",
+    "animalCommonName" : "Deer, red",
+    "animalScientificName" : "Cervus elaphus"
+  }, {
+    "id" : "7befeff0-5f9f-47b2-a6d4-5c66efa9e772",
+    "animalCommonName" : "Wolf spider",
+    "animalScientificName" : "Lycosa godeffroyi"
+  }, {
+    "id" : "51949add-d96a-4bed-93c1-24f4dd7abe5f",
+    "animalCommonName" : "Sloth, two-toed",
+    "animalScientificName" : "Choloepus hoffmani"
+  }, {
+    "id" : "239bfd6f-f84d-4329-b419-a986731b17b2",
+    "animalCommonName" : "Catfish, blue",
+    "animalScientificName" : "Ictalurus furcatus"
+  }, {
+    "id" : "9baebdd6-50d5-4192-9044-dbeeeb136f6f",
+    "animalCommonName" : "Waterbuck, common",
+    "animalScientificName" : "Kobus defassa"
+  }, {
+    "id" : "420e5e37-a641-49d5-a0a5-dfc6009907f1",
+    "animalCommonName" : "Fat-tailed dunnart",
+    "animalScientificName" : "Smithopsis crassicaudata"
+  }, {
+    "id" : "97d5898e-d780-409c-a051-19beda22470b",
+    "animalCommonName" : "Quail, gambel's",
+    "animalScientificName" : "Callipepla gambelii"
+  }, {
+    "id" : "c85479b0-91ea-4522-a18b-0675b54f43cd",
+    "animalCommonName" : "Bahama pintail",
+    "animalScientificName" : "Anas bahamensis"
+  }, {
+    "id" : "521040a9-e95e-4374-8169-e927ff6807fa",
+    "animalCommonName" : "Mourning collared dove",
+    "animalScientificName" : "Streptopelia decipiens"
+  }, {
+    "id" : "4e5defc5-ee1b-40ec-8c05-071759f1a7e1",
+    "animalCommonName" : "Grouse, greater sage",
+    "animalScientificName" : "Centrocercus urophasianus"
+  }, {
+    "id" : "2ac21aa4-3f6b-4f56-b903-682bec188f42",
+    "animalCommonName" : "Cobra, cape",
+    "animalScientificName" : "Naja nivea"
+  }, {
+    "id" : "13540811-18b3-40ab-b2a1-45007edc4be6",
+    "animalCommonName" : "Hartebeest, coke's",
+    "animalScientificName" : "Alcelaphus buselaphus cokii"
+  }, {
+    "id" : "112c23d8-4a45-4462-98d6-f4a8fd7fc824",
+    "animalCommonName" : "Legaan, water",
+    "animalScientificName" : "Varanus salvator"
+  }, {
+    "id" : "84b71e66-a38b-4765-b38e-042304e39473",
+    "animalCommonName" : "Grouse, greater sage",
+    "animalScientificName" : "Centrocercus urophasianus"
+  }, {
+    "id" : "e92e94ba-29bd-4375-9807-a5d7c7fb5aab",
+    "animalCommonName" : "Mountain duck",
+    "animalScientificName" : "Hymenolaimus malacorhynchus"
+  }, {
+    "id" : "27194a38-13e5-4391-ae03-95d170de541e",
+    "animalCommonName" : "Bare-faced go away bird",
+    "animalScientificName" : "Lorythaixoides concolor"
+  }, {
+    "id" : "0ebfe664-f50e-431e-bb97-739992b34720",
+    "animalCommonName" : "Squirrel, european red",
+    "animalScientificName" : "Sciurus vulgaris"
+  }, {
+    "id" : "7ef1b08c-6957-4897-a0b3-d4011a3e5e7d",
+    "animalCommonName" : "Roseat flamingo",
+    "animalScientificName" : "Phoenicopterus ruber"
+  }, {
+    "id" : "87f0171e-e89d-4458-aa1f-5acd0ea993d8",
+    "animalCommonName" : "Collared peccary",
+    "animalScientificName" : "Tayassu tajacu"
+  }, {
+    "id" : "43f800da-544f-4da4-87e0-fbef37a3e9a5",
+    "animalCommonName" : "Sungazer, yellow-brown",
+    "animalScientificName" : "Cordylus giganteus"
+  }, {
+    "id" : "56ce9a29-659d-468d-b328-ff926bc89f13",
+    "animalCommonName" : "Trumpeter, green-winged",
+    "animalScientificName" : "Psophia viridis"
+  }, {
+    "id" : "a124bfbf-8260-4a52-9553-a651bd06fbcc",
+    "animalCommonName" : "Badger, honey",
+    "animalScientificName" : "Mellivora capensis"
+  }, {
+    "id" : "e757b218-028b-4dcf-a593-2db4f0b2edef",
+    "animalCommonName" : "Squirrel, uinta ground",
+    "animalScientificName" : "Spermophilus armatus"
+  }, {
+    "id" : "ce242936-9aba-4363-b950-e1dcaf0338ce",
+    "animalCommonName" : "Sun gazer",
+    "animalScientificName" : "Cordylus giganteus"
+  }, {
+    "id" : "93885a54-df9c-4a06-a7f6-0ec20949bdfa",
+    "animalCommonName" : "White-tailed deer",
+    "animalScientificName" : "Odocoilenaus virginianus"
+  }, {
+    "id" : "2791818c-2d4d-4076-91d7-84c65000a138",
+    "animalCommonName" : "American woodcock",
+    "animalScientificName" : "Scolopax minor"
+  }, {
+    "id" : "776a6392-3eb8-4e93-9520-113b7d90f276",
+    "animalCommonName" : "Fowl, helmeted guinea",
+    "animalScientificName" : "Numida meleagris"
+  }, {
+    "id" : "3a8d0692-75c5-488f-ba4e-f1be835eb6f6",
+    "animalCommonName" : "Wombat, southern hairy-nosed",
+    "animalScientificName" : "Lasiorhinus latifrons"
+  }, {
+    "id" : "f17c2e9b-2150-499a-91d0-9020cb5e8c22",
+    "animalCommonName" : "Dragon, netted rock",
+    "animalScientificName" : "Ctenophorus ornatus"
+  }, {
+    "id" : "74768091-31f0-4911-af06-0f5ec6e8163f",
+    "animalCommonName" : "Southern screamer",
+    "animalScientificName" : "Chauna torquata"
+  } ]
+}

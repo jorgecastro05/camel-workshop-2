@@ -1,0 +1,406 @@
+{
+  "factory" : {
+    "name" : "Huron Consulting Group Inc.",
+    "data" : [ {
+      "make" : "Aston Martin",
+      "model" : "V8 Vantage",
+      "year" : 2009,
+      "serial" : "JH4CL96804C050244",
+      "color" : "Maroon",
+      "status" : "used",
+      "price" : 52781.25
+    }, {
+      "make" : "Chrysler",
+      "model" : "300",
+      "year" : 2011,
+      "serial" : "1FTSX2A5XAE372392",
+      "color" : "Mauv",
+      "status" : "used",
+      "price" : 14448.75
+    }, {
+      "make" : "Mazda",
+      "model" : "626",
+      "year" : 2002,
+      "serial" : "JH4CU2F80DC583666",
+      "color" : "Crimson",
+      "status" : "new",
+      "price" : 30210.0
+    }, {
+      "make" : "Mitsubishi",
+      "model" : "Outlander Sport",
+      "year" : 2011,
+      "serial" : "JH4KB2F51AC677798",
+      "color" : "Red",
+      "status" : "used",
+      "price" : 41511.75
+    }, {
+      "make" : "GMC",
+      "model" : "Envoy",
+      "year" : 2002,
+      "serial" : "KMHHU6KJ3FU610472",
+      "color" : "Turquoise",
+      "status" : "new",
+      "price" : 29627.0
+    }, {
+      "make" : "BMW",
+      "model" : "760",
+      "year" : 2004,
+      "serial" : "WP0AD2A79EL577406",
+      "color" : "Aquamarine",
+      "status" : "used",
+      "price" : 13914.0
+    }, {
+      "make" : "Toyota",
+      "model" : "Echo",
+      "year" : 2003,
+      "serial" : "WVWAB7AJ6DW940708",
+      "color" : "Crimson",
+      "status" : "new",
+      "price" : 83264.0
+    }, {
+      "make" : "GMC",
+      "model" : "Rally Wagon 3500",
+      "year" : 1992,
+      "serial" : "WA1EY94L38D121207",
+      "color" : "Fuscia",
+      "status" : "new",
+      "price" : 27017.0
+    }, {
+      "make" : "Cadillac",
+      "model" : "CTS",
+      "year" : 2005,
+      "serial" : "JN8AZ1MU6CW333306",
+      "color" : "Maroon",
+      "status" : "used",
+      "price" : 15234.0
+    }, {
+      "make" : "Saab",
+      "model" : "9-3",
+      "year" : 2001,
+      "serial" : "JH4CU2E66AC026160",
+      "color" : "Red",
+      "status" : "new",
+      "price" : 31954.0
+    }, {
+      "make" : "Audi",
+      "model" : "5000CS Quattro",
+      "year" : 1986,
+      "serial" : "1G6KD54Y75U675356",
+      "color" : "Red",
+      "status" : "used",
+      "price" : 20509.5
+    }, {
+      "make" : "Ford",
+      "model" : "E350",
+      "year" : 2006,
+      "serial" : "JN8AZ2KRXET204316",
+      "color" : "Violet",
+      "status" : "used",
+      "price" : 47284.5
+    }, {
+      "make" : "Honda",
+      "model" : "Odyssey",
+      "year" : 1999,
+      "serial" : "JN1AZ4EH8FM621586",
+      "color" : "Teal",
+      "status" : "new",
+      "price" : 65283.0
+    }, {
+      "make" : "Lexus",
+      "model" : "LS",
+      "year" : 2004,
+      "serial" : "JTEBU4BF6DK140839",
+      "color" : "Khaki",
+      "status" : "new",
+      "price" : 91213.0
+    }, {
+      "make" : "Ford",
+      "model" : "Fairlane",
+      "year" : 1966,
+      "serial" : "1FTEW1CM1DF228601",
+      "color" : "Teal",
+      "status" : "new",
+      "price" : 40217.0
+    }, {
+      "make" : "Volkswagen",
+      "model" : "Jetta",
+      "year" : 1999,
+      "serial" : "3VW4A7AT0DM740261",
+      "color" : "Crimson",
+      "status" : "new",
+      "price" : 47417.0
+    }, {
+      "make" : "Honda",
+      "model" : "Civic",
+      "year" : 2003,
+      "serial" : "SCBZK25E73C192752",
+      "color" : "Turquoise",
+      "status" : "used",
+      "price" : 56907.75
+    }, {
+      "make" : "Suzuki",
+      "model" : "Grand Vitara",
+      "year" : 2004,
+      "serial" : "1G6DV8EP4E0599129",
+      "color" : "Purple",
+      "status" : "new",
+      "price" : 35101.0
+    }, {
+      "make" : "Mitsubishi",
+      "model" : "Mighty Max",
+      "year" : 1995,
+      "serial" : "1G6DU57V190090375",
+      "color" : "Puce",
+      "status" : "new",
+      "price" : 85092.0
+    }, {
+      "make" : "Oldsmobile",
+      "model" : "Toronado",
+      "year" : 1966,
+      "serial" : "WP0AB2A97BS005436",
+      "color" : "Purple",
+      "status" : "new",
+      "price" : 57418.0
+    }, {
+      "make" : "Volvo",
+      "model" : "S60",
+      "year" : 2009,
+      "serial" : "5UXZV4C56CL454276",
+      "color" : "Yellow",
+      "status" : "used",
+      "price" : 72939.75
+    }, {
+      "make" : "Ford",
+      "model" : "Econoline E250",
+      "year" : 1997,
+      "serial" : "2C3CCAPT9CH229789",
+      "color" : "Teal",
+      "status" : "used",
+      "price" : 46921.5
+    }, {
+      "make" : "Mercedes-Benz",
+      "model" : "W201",
+      "year" : 1991,
+      "serial" : "1G6AL5S32D0930927",
+      "color" : "Indigo",
+      "status" : "used",
+      "price" : 45543.0
+    }, {
+      "make" : "Eagle",
+      "model" : "Talon",
+      "year" : 1992,
+      "serial" : "SCFEBBAC3AG270029",
+      "color" : "Purple",
+      "status" : "new",
+      "price" : 21046.0
+    }, {
+      "make" : "Mazda",
+      "model" : "CX-9",
+      "year" : 2012,
+      "serial" : "JTHBE5C21D5735338",
+      "color" : "Indigo",
+      "status" : "new",
+      "price" : 20982.0
+    }, {
+      "make" : "Subaru",
+      "model" : "Impreza WRX",
+      "year" : 2011,
+      "serial" : "WBSKG9C58DJ736824",
+      "color" : "Green",
+      "status" : "new",
+      "price" : 84166.0
+    }, {
+      "make" : "Dodge",
+      "model" : "Ram 2500 Club",
+      "year" : 1996,
+      "serial" : "SCFBB03C49G529448",
+      "color" : "Fuscia",
+      "status" : "new",
+      "price" : 95826.0
+    }, {
+      "make" : "Isuzu",
+      "model" : "Rodeo",
+      "year" : 2000,
+      "serial" : "WBA3A9C5XEF188999",
+      "color" : "Pink",
+      "status" : "new",
+      "price" : 23291.0
+    }, {
+      "make" : "Ford",
+      "model" : "Explorer Sport Trac",
+      "year" : 2006,
+      "serial" : "1D7RB1CT0BS379947",
+      "color" : "Blue",
+      "status" : "new",
+      "price" : 50167.0
+    }, {
+      "make" : "Kia",
+      "model" : "Optima",
+      "year" : 2012,
+      "serial" : "4T3BA3BB8EU194754",
+      "color" : "Yellow",
+      "status" : "used",
+      "price" : 18563.25
+    }, {
+      "make" : "Mitsubishi",
+      "model" : "Lancer Evolution",
+      "year" : 2010,
+      "serial" : "3D7TT2CT2BG646439",
+      "color" : "Red",
+      "status" : "used",
+      "price" : 23466.0
+    }, {
+      "make" : "GMC",
+      "model" : "Suburban 2500",
+      "year" : 1996,
+      "serial" : "5N1BA0NE5FN579813",
+      "color" : "Maroon",
+      "status" : "used",
+      "price" : 63411.0
+    }, {
+      "make" : "Mazda",
+      "model" : "Mazda6",
+      "year" : 2005,
+      "serial" : "5UXZV4C52BL697310",
+      "color" : "Maroon",
+      "status" : "new",
+      "price" : 82662.0
+    }, {
+      "make" : "Pontiac",
+      "model" : "Grand Prix",
+      "year" : 1986,
+      "serial" : "3N1AB7AP5FY416128",
+      "color" : "Mauv",
+      "status" : "used",
+      "price" : 26012.25
+    }, {
+      "make" : "Buick",
+      "model" : "Century",
+      "year" : 1991,
+      "serial" : "YV1902FH5D2447119",
+      "color" : "Mauv",
+      "status" : "new",
+      "price" : 57445.0
+    }, {
+      "make" : "GMC",
+      "model" : "Savana 1500",
+      "year" : 1999,
+      "serial" : "WP0AA2A92ES826757",
+      "color" : "Teal",
+      "status" : "used",
+      "price" : 39410.25
+    }, {
+      "make" : "Mercedes-Benz",
+      "model" : "S-Class",
+      "year" : 1987,
+      "serial" : "3VW507ATXFM480106",
+      "color" : "Yellow",
+      "status" : "used",
+      "price" : 25620.75
+    }, {
+      "make" : "Lincoln",
+      "model" : "Continental",
+      "year" : 1993,
+      "serial" : "TRURD38JX91799079",
+      "color" : "Fuscia",
+      "status" : "used",
+      "price" : 11934.75
+    }, {
+      "make" : "Chevrolet",
+      "model" : "Cavalier",
+      "year" : 1997,
+      "serial" : "3VWKZ8AJ0BM263462",
+      "color" : "Violet",
+      "status" : "new",
+      "price" : 56349.0
+    }, {
+      "make" : "Mitsubishi",
+      "model" : "Pajero",
+      "year" : 1995,
+      "serial" : "1N6AA0CC6CN842840",
+      "color" : "Pink",
+      "status" : "used",
+      "price" : 33549.0
+    }, {
+      "make" : "Lamborghini",
+      "model" : "Reventón",
+      "year" : 2008,
+      "serial" : "4A31K5DF7CE951701",
+      "color" : "Green",
+      "status" : "used",
+      "price" : 18959.25
+    }, {
+      "make" : "Infiniti",
+      "model" : "QX",
+      "year" : 2004,
+      "serial" : "4A31K2DF2BE965096",
+      "color" : "Blue",
+      "status" : "new",
+      "price" : 31563.0
+    }, {
+      "make" : "GMC",
+      "model" : "Sierra 2500",
+      "year" : 2011,
+      "serial" : "JTHBE1BL3FA113112",
+      "color" : "Purple",
+      "status" : "new",
+      "price" : 15333.0
+    }, {
+      "make" : "Lamborghini",
+      "model" : "Gallardo",
+      "year" : 2010,
+      "serial" : "KNAFT4A20C5187253",
+      "color" : "Fuscia",
+      "status" : "used",
+      "price" : 59081.25
+    }, {
+      "make" : "Chevrolet",
+      "model" : "Corvette",
+      "year" : 1956,
+      "serial" : "1FTMF1E88AK177967",
+      "color" : "Yellow",
+      "status" : "used",
+      "price" : 15301.5
+    }, {
+      "make" : "BMW",
+      "model" : "M5",
+      "year" : 2002,
+      "serial" : "WAUEV94F47N016447",
+      "color" : "Crimson",
+      "status" : "new",
+      "price" : 31460.0
+    }, {
+      "make" : "Dodge",
+      "model" : "Ram 2500",
+      "year" : 2010,
+      "serial" : "WA1LKAFP4AA051346",
+      "color" : "Crimson",
+      "status" : "new",
+      "price" : 89884.0
+    }, {
+      "make" : "Mazda",
+      "model" : "Mazda6",
+      "year" : 2005,
+      "serial" : "WBALZ3C50CC635764",
+      "color" : "Pink",
+      "status" : "new",
+      "price" : 56572.0
+    }, {
+      "make" : "Lincoln",
+      "model" : "Town Car",
+      "year" : 1992,
+      "serial" : "WBADW3C50CE698512",
+      "color" : "Violet",
+      "status" : "used",
+      "price" : 54445.5
+    }, {
+      "make" : "Pontiac",
+      "model" : "Grand Prix",
+      "year" : 1989,
+      "serial" : "WAUHMAFC3EN694480",
+      "color" : "Blue",
+      "status" : "new",
+      "price" : 85627.0
+    } ]
+  }
+}
